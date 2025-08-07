@@ -4,3 +4,5 @@ Maça
 banana 
 chuchu
 abobora
+morango
+abacate
